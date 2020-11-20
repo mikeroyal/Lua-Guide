@@ -26,7 +26,7 @@
 
 ## Tools
 
-[lua-language-server](https://github.com/sumneko/lua-language-server) is an extension for VSCode that provides support for the Lua Language Server.
+[Lua Language Server](https://github.com/sumneko/lua-language-server) is an extension for VSCode that provides support for the Lua Language Server.
 
 [Apache APISIX](https://github.com/apache/apisix) is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.
 
