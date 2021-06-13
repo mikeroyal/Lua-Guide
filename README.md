@@ -6,7 +6,14 @@
 
 #### A guide covering the Lua programming language including the applications and tools that will make you a better and more efficient Lua developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/121819297-1d36c000-cc41-11eb-845e-1e56e5802aad.png">
+  <br />
+</p>
+
+# Lua Learning Resources
 
 [Lua](https://www.lua.org/) is a subset of the C programming language designed to be a lightweight embeddable scripting language used by many frameworks and games.
 
@@ -24,7 +31,7 @@
 
 [RoboCode Academy from Roblox](https://corp.roblox.com/education/)
 
-## Tools
+# Lua Tools, Libraries, and Frameworks
 
 [Lua Language Server](https://github.com/sumneko/lua-language-server) is an extension for VSCode that provides support for the Lua Language Server.
 
@@ -47,3 +54,12 @@
 [Lua Resty HTTP](https://github.com/ledgetech/lua-resty-http) is an HTTP client cosocket driver for [OpenResty](https://openresty.org/en/)/ [ngx_lua](https://github.com/openresty/lua-nginx-module).
 
 [NLua](https://github.com/NLua/NLua) is a bridge between Lua world and the .NET (compatible with .NET Core/UWP/Mac/Linux/Android/iOS/tvOS).
+
+# Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Lua-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
